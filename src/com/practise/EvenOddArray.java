@@ -7,8 +7,6 @@ public class EvenOddArray {
         char[] arr = str.toCharArray();
         int[] arr1 = new int[str.length()];
         int[] arr2 = new int[str.length()];
-//        char[] arr1 = new char[str.length()];
-//        char[] arr2 = new char[str.length()];
         int l = 0;
         int m = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -31,8 +29,6 @@ public class EvenOddArray {
             System.out.print(a+" ");
         }
         System.out.println();
-//       System.out.println(arr1);
-//       System.out.println(arr2);
     }
     }
 

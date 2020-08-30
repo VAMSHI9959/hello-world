@@ -10,4 +10,3 @@ public class SumOfArray {
         return temp;
     }
 }
-
