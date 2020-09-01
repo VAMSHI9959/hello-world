@@ -11,6 +11,7 @@ public class PerfectCouple {
         for(int i=0;i<hname.length;i++){
             for(int j=0;j<wname.length;j++){
                 if(hname[i]==wname[j]){
+
                     perfectCouple=true;
                     break;
                 }else{

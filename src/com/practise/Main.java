@@ -3,6 +3,11 @@ package com.practise;
 public class Main {
 
     public static void main(String[] args) {
+
+//        char x='A';
+//        int a=x;
+//        System.out.println(a);
+//        Integer.parseInt(x+"");
 	// write your code here
 //     char[] arr=ReverseOfString.reverseOfString("vamshi");
 //        System.out.println(arr);
@@ -52,6 +57,22 @@ public class Main {
 //        System.out.println(count);
 
 //        int result=NumberOfCharacters.findNumberOfCharacters("hello world hello");
+//        System.out.println(result); error
+
+//        boolean result=IsIncreasingOrder.findIncreasingOrderOrNot("12389");
+//        System.out.println(result);
+
+//       DifferenceBetweenTwoConsecutiveDigits.findDifferenceBetweenTwoConsecutiveDigits("23435");
+
+        RemoveDuplicateNumbersFromArray.findDuplicateNumbers(new int[]{3,4,5,3,2,5});
+
+//        boolean result=PositiveString.checkPositiveStringOrNot("AVZ");
+//        System.out.println(result);
+
+//        int count=UniqueCountOfNumbersFromArrayOfIntegers.findUniqueCountFromArray(new int[]{1,1,3,1,1});
+//        System.out.println(count);error
+
+//        boolean result=IsAnyNumberOccurConsecutively.findIsThereAnyConsecutiveNumber(new int[]{1,10,100});
 //        System.out.println(result);
     }
 }
