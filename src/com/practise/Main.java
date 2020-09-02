@@ -9,8 +9,8 @@ public class Main {
 //        System.out.println(a);
 //        Integer.parseInt(x+"");
 	// write your code here
-     String arr=ReverseOfString.reverseOfString("Vamshi");
-        System.out.println(arr);
+//     String arr=ReverseOfString.reverseOfString("vamshi");
+//        System.out.println(arr);
 //
 //
 //       char[] ch1 = EvensFromString.evenIndicesFromString("vamshi");
@@ -42,8 +42,8 @@ public class Main {
 //            System.out.println(i);
 //        }
 
-//        boolean c=ValidationForJobApplication.registeringTheDetailsOfJobSeeker("vamshi_gatadi_job");
-//        System.out.println(c);
+        boolean c=ValidationForJobApplication.registeringTheDetailsOfJobSeeker("vamshi_g_job");
+        System.out.println(c);
 //
 //        String s=ReturnLastCharactersOfStringArray.findLastCharacters(new String[]{"arr","abc","cde"});
 //        System.out.println(s);
@@ -67,7 +67,7 @@ public class Main {
 
 //        RemoveDuplicateNumbersFromArray.findDuplicateNumbers(new int[]{3,4,5,3,2,5});
 
-//        boolean result=PositiveString.checkPositiveStringOrNot("AVZ");
+//        boolean result=PositiveString.checkPositiveStringOrNot("srishti sethi");
 //        System.out.println(result);
 
 //        int count=UniqueCountOfNumbersFromArrayOfIntegers.findUniqueCountFromArray(new int[]{1,1,3,1,1});
