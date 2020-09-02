@@ -9,7 +9,7 @@ public class Main {
 //        System.out.println(a);
 //        Integer.parseInt(x+"");
 	// write your code here
-//     char[] arr=ReverseOfString.reverseOfString("vamshi");
+//     char[] arr=ReverseOfString.reverseOfString("Vamshi");
 //        System.out.println(arr);
 //
 //
@@ -51,10 +51,10 @@ public class Main {
 //        boolean validation=EmailValidation.findGivenEmailISValidOrNot("vamshi@gmail.com");
 //        System.out.println(validation);
 
-//        String[] input1=new String[]{"hello world","world is wonderful","world map"};
-//        String input2="world";
-//       int count= NumberOfOccurences.findNumberOfOccurences(input1,input2);
-//        System.out.println(count);
+//        String[] input1=new String[]{"hello wonderful","world is wonderful","world map"};
+//        String input2="wonder";
+       int count= NumberOfOccurences.findNumberOfOccurences(input1,input2);
+        System.out.println(count);
 
 //        int result=NumberOfCharacters.findNumberOfCharacters("hello world hello");
 //        System.out.println(result); error
@@ -64,7 +64,7 @@ public class Main {
 
 //       DifferenceBetweenTwoConsecutiveDigits.findDifferenceBetweenTwoConsecutiveDigits("23435");
 
-        RemoveDuplicateNumbersFromArray.findDuplicateNumbers(new int[]{3,4,5,3,2,5});
+//        RemoveDuplicateNumbersFromArray.findDuplicateNumbers(new int[]{3,4,5,3,2,5});
 
 //        boolean result=PositiveString.checkPositiveStringOrNot("AVZ");
 //        System.out.println(result);
@@ -72,7 +72,7 @@ public class Main {
 //        int count=UniqueCountOfNumbersFromArrayOfIntegers.findUniqueCountFromArray(new int[]{1,1,3,1,1});
 //        System.out.println(count);error
 
-//        boolean result=IsAnyNumberOccurConsecutively.findIsThereAnyConsecutiveNumber(new int[]{1,10,100});
+//        boolean result=IsAnyNumberOccurConsecutively.findIsThereAnyConsecutiveNumber(new int[]{1,2,2,4});
 //        System.out.println(result);
     }
 }
