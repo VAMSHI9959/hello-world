@@ -42,7 +42,7 @@ public class Main {
 //            System.out.println(i);
        // }
 
-//        boolean c=ValidationForJobApplication.registeringTheDetailsOfJobSeeker("vamshigatadi_job");
+//        boolean c=ValidationForJobApplication.registeringTheDetailsOfJobSeeker("vamshi_gatadi_job");
 //        System.out.println(c);
 //
 //        String s=ReturnLastCharactersOfStringArray.findLastCharacters(new String[]{"arr","abc","cde"});
@@ -62,8 +62,8 @@ public class Main {
 //        boolean result=IsIncreasingOrder.findIncreasingOrderOrNot("12389");
 //        System.out.println(result);
 
-       int result=DifferenceBetweenTwoConsecutiveDigits.findDifferenceBetweenTwoConsecutiveDigits("23435");
-        System.out.println(result);
+//       int result=DifferenceBetweenTwoConsecutiveDigits.findDifferenceBetweenTwoConsecutiveDigits("23435");
+//        System.out.println(result);
 
 //        RemoveDuplicateNumbersFromArray.findDuplicateNumbers(new int[]{3,4,5,3,2,5});
 
