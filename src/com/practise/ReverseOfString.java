@@ -1,7 +1,7 @@
 package com.practise;
 
 public class ReverseOfString {
-    public static char[] reverseOfString(String s){
+    public static String reverseOfString(String s){
         char[] arr=s.toCharArray();
         char[] arr1=new char[s.length()];
         int j=0;
@@ -10,7 +10,8 @@ public class ReverseOfString {
             arr1[j]=arr[i];
             j++;
         }
-       return arr1;
+        String result=new String(arr1);
+       return result;
     }
 
 }

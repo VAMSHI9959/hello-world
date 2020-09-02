@@ -9,8 +9,8 @@ public class Main {
 //        System.out.println(a);
 //        Integer.parseInt(x+"");
 	// write your code here
-//     char[] arr=ReverseOfString.reverseOfString("Vamshi");
-//        System.out.println(arr);
+     String arr=ReverseOfString.reverseOfString("Vamshi");
+        System.out.println(arr);
 //
 //
 //       char[] ch1 = EvensFromString.evenIndicesFromString("vamshi");
@@ -36,11 +36,11 @@ public class Main {
 
 
 //        String [] input1 =new String[]{"ranjith","vamshi","ramesh","srikanth"};
-//        String [] input2 =new String[]{"vamshi","rakesh","vimal","sunil"};
+//        String [] input2 =new String[]{"vamshii","rakesh","vimal","sunil"};
 //       String[] res = EmployeeWorkingInSameBranch.namesOfEmployeesWorkingInBothBranches(input1,input2);
 //        for(String i: res) {
 //            System.out.println(i);
-       // }
+//        }
 
 //        boolean c=ValidationForJobApplication.registeringTheDetailsOfJobSeeker("vamshi_gatadi_job");
 //        System.out.println(c);
