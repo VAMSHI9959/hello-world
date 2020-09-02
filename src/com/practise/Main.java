@@ -51,8 +51,8 @@ public class Main {
 //        boolean validation=EmailValidation.findGivenEmailISValidOrNot("vamshi@gmail.com");
 //        System.out.println(validation);
 
-//        String[] input1=new String[]{"hello wonderful","world is wonderful","world map"};
-//        String input2="wonder";
+        String[] input1=new String[]{"hello wonderful","world is wonderful","world map"};
+        String input2="wonder";
        int count= NumberOfOccurences.findNumberOfOccurences(input1,input2);
         System.out.println(count);
 
